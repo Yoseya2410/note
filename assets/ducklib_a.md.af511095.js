@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as o}from"./app.aea62fa5.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ducklib/a.md"}'),s={name:"ducklib/a.md"},c=o("p",null,"\u6587\u6863\u5373\u5C06\u63A8\u51FA..",-1),n=[c];function r(_,d,i,l,p,m){return a(),t("div",null,n)}const h=e(s,[["render",r]]);export{f as __pageData,h as default};
